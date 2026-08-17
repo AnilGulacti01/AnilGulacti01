@@ -11,7 +11,7 @@ ve kodla karmaşık problemler çözüyorum.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=Profile+views&style=for-the-badge&color=6A0DAD&labelColor=6A0DAD&base=6A0DAD,6A0DAD" />
+<img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=Profile+views&style=for-the-badge&color=6A0DAD&labelColor=6A0DAD" />
 
 <br>
 
