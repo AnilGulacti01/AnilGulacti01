@@ -6,14 +6,13 @@
 
 ### Software Developer&nbsp;&nbsp;·&nbsp;&nbsp;AI Enthusiast&nbsp;&nbsp;·&nbsp;&nbsp;Builder
 
-Fikirleri gerçek ürünlere dönüştürüyor, akıllı sistemler kuruyor
-ve kodla karmaşık problemler çözüyorum.
+Ai ile kullanıcı odakları çözüm buluyorum
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=Profile+views&style=for-the-badge&color=6A0DAD&labelColor=6A0DAD" />
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B980F0)](https://www.linkedin.com/in/an%C4%B1l-g%C3%BCla%C3%A7t%C4%B1-10b80742a/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B980F0)](https://www.instagram.com/anl_gulacti/)
