@@ -15,9 +15,9 @@ ve kodla karmaşık problemler çözüyorum.
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B980F0)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B980F0)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=B980F0)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B980F0)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/an%C4%B1l-g%C3%BCla%C3%A7t%C4%B1-10b80742a/))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B980F0)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/anl_gulacti/))
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=B980F0)](mailto:gulactianil01@gmail.com)
 
 </div>
 
