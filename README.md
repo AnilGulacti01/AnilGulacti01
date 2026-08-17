@@ -11,7 +11,7 @@ ve kodla karmaşık problemler çözüyorum.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=PROFILE+VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
 
 <br><br>
 
@@ -112,7 +112,7 @@ Dukasim bünyesinde 3 ay boyunca yapay zeka projelerinde staj yaptım.
 
 </div>
 
-
+> Bu rozetleri gerçekten kullandığın teknolojilere göre güncelle.
 
 <br>
 
@@ -120,10 +120,10 @@ Dukasim bünyesinde 3 ay boyunca yapay zeka projelerinde staj yaptım.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B980F0&icon_color=6A0DAD&text_color=E0C3FC" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&stroke=6A0DAD&ring=B980F0&fire=B980F0&currStreakLabel=E0C3FC" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnilGulacti01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B980F0&icon_color=6A0DAD&text_color=E0C3FC" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=AnilGulacti01&hide_border=true&background=0D0D0D&stroke=6A0DAD&ring=B980F0&fire=B980F0&currStreakLabel=E0C3FC" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B980F0&text_color=E0C3FC" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilGulacti01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B980F0&text_color=E0C3FC" width="50%" />
 
 </div>
 
