@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&width=1000" width="100%" />
+
 # Anıl Gülaçtı
 
 ### Software Developer&nbsp;&nbsp;·&nbsp;&nbsp;AI Enthusiast&nbsp;&nbsp;·&nbsp;&nbsp;Builder
@@ -9,7 +11,7 @@ ve kodla karmaşık problemler çözüyorum.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=6A0DAD&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
 
 <br><br>
 
@@ -20,6 +22,10 @@ ve kodla karmaşık problemler çözüyorum.
 </div>
 
 <br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## Hakkımda
 
@@ -40,6 +46,26 @@ const anil = {
   mindset: "Build. Break. Learn. Improve."
 };
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<pre id="tiresult" style="font-size: 6px; background-color: #000000; font-weight: bold; padding: 4px 5px; line-height: 7px;"><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b>
+<b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b>
+<b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b>
+<b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b>
+<b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b>
+<b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b>
+<b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b>
+<b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b>
+<b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b>
+<b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b>
+<b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">1</b><b style="color:#6A0DAD">0</b><b style="color:#B980F0">0</b><b style="color:#6A0DAD">1</b><b style="color:#B980F0">0</b>
+</pre>
+
+</td>
+</tr>
+</table>
 
 - Şu anda yapay zeka projeleri üzerinde çalışıyorum
 - Dukasim bünyesinde 3 aylık staj yaparak yapay zeka alanında gerçek dünya deneyimi kazandım
@@ -131,5 +157,9 @@ Aşağıdaki kanallardan bana ulaşabilirsin.
 <div align="center">
 
 **"Build. Break. Learn. Improve."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&width=1000" width="100%" />
 
 </div>
