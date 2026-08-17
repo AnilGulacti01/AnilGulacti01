@@ -11,9 +11,9 @@ ve kodla karmaşık problemler çözüyorum.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=PROFILE+VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=AnilGulacti01&label=Profile+views&style=for-the-badge&color=6A0DAD&labelColor=6A0DAD&base=6A0DAD,6A0DAD" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B980F0)](https://www.linkedin.com/in/an%C4%B1l-g%C3%BCla%C3%A7t%C4%B1-10b80742a/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B980F0)](https://www.instagram.com/anl_gulacti/)
