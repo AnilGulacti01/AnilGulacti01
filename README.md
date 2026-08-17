@@ -112,7 +112,7 @@ Dukasim bünyesinde 3 ay boyunca yapay zeka projelerinde staj yaptım.
 
 </div>
 
-> Bu rozetleri gerçekten kullandığın teknolojilere göre güncelle.
+
 
 <br>
 
